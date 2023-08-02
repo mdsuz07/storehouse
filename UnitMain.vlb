@@ -1,0 +1,13 @@
+﻿[GridPanelLayout1]
+Coordinates=158,10,102,33
+
+[dm.dsGoods]
+Coordinates=100,70,77,33
+
+[dm.qGoods]
+Coordinates=10,10,71,33
+Visible=False
+
+[iGoods]
+Coordinates=99,10,49,51
+

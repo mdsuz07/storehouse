@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.566,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.980,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.984,C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\UnitMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.854,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.764,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.767,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.944,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\Unit1.pas=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\UnitAUGoods.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.248,C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\Unit1.pas=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\UnitDataModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.745,C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\Unit1.pas=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\UnitGoods.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.855,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\Unit1.fmx=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\UnitAUGoods.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.745,C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\Unit1.fmx=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\UnitGoods.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.984,C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\UnitMain.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.886,C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\StoreHouse.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.248,C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\Unit1.dfm=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\d11.3\Multi\storehouse\UnitDataModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.156,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.293,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.293,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.563,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.605,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
